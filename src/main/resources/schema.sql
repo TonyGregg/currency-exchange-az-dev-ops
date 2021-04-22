@@ -1,0 +1,1 @@
+create table currency_exchange(id int primary key, from_currency varchar(3), to_currency varchar(3), rate decimal);
